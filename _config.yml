@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
-remote_theme: pages-themes/cayman
 title: Criterion's Software Site
 description: The title says it all...
+theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman
